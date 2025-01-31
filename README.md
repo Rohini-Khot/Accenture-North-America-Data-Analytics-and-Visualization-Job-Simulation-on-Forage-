@@ -17,7 +17,7 @@ The project followed a structured Data Analytics Process:
 2️⃣ Data Cleaning
 3️⃣ Data Modeling
 4️⃣ Data Analysis
-5️⃣ Insight Discovery
+5️⃣ Insight Discover
 
 
 📊 Key Insights
